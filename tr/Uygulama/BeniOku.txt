@@ -1,0 +1,6 @@
+Merhaba. Bu proje satranç oynamak için yapılmıştır. Satranç'ta taktikleri vb. burada öğrenebilirsiniz.
+Uygulamayı "Satranc.vbs"ye tıklayarak açın.
+
+EN ÖNEMLİ BİLGİ:
+Uygulamayı açmadan önce https://stockfishchess.org/download/'dan Stockfish'i yükleyerek motoru indirin. 
+Motorun klasörünün içindeki dosya ve klasörleri buranın içine atın.
